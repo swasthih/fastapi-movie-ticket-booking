@@ -158,12 +158,6 @@ This project represents backend systems used in:
 
 ---
 
-## 👨‍💻 Author
-
-FastAPI Internship Final Project
-
----
-
 ## 🌟 Highlights
 
 * Clean and structured code
